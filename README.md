@@ -46,8 +46,8 @@ The complete bachelor's thesis can be accessed here:
 
 [Banchelor's Thesis](Banchelor's thesis.pdf)
 
-![Original object](images/original_objects/snag.jpg)
-![Original object](images/restructured_models/snag.jpg)
+![snag](images/original_objects/snag.jpg)
+![snag](images/reconstructed_models/snag.jpg)
 
-![Original object](images/original_objects/Nikon.jpg)
-![Original object](images/restructured_models/Nikon.jpg)
+![Nikon](images/original_objects/Nikon.jpg)
+![Nikon](images/reconstructed_models/Nikon.jpg)
