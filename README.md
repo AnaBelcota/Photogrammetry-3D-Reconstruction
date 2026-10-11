@@ -49,5 +49,5 @@ The complete bachelor's thesis can be accessed here:
 ![Nikon](images/original_objects/Nikon.JPG)
 ![snag](images/original_objects/snag.jpg)
 
-![Nikon](images/reconstructed_models/Nikon.JPG)
-![snag](images/reconstructed_models/snag.jpg)
+![Nikon](images/reconstructed_models/Nikon.png)
+![snag](images/reconstructed_models/snag.png)
