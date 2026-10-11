@@ -44,7 +44,7 @@ More detailed experimental results can be added as supplementary materials.
 
 The complete bachelor's thesis can be accessed here:
 
-![Banchelor's Thesis](Bachelor's thesis.pdf)
+![Banchelor's Thesis](Bachelor's_thesis.pdf)
 
 ![Nikon](images/original_objects/Nikon.JPG)
 ![snag](images/original_objects/snag.jpg)
