@@ -47,7 +47,8 @@ The complete bachelor's thesis can be accessed here:
 ![Banchelor's Thesis](Bachelor's_thesis.pdf)
 
 ![Nikon](images/original_objects/Nikon.JPG)
-![snag](images/original_objects/snag.jpg)
-
 ![Nikon](images/reconstructed_models/Nikon.png)
+
+
+![snag](images/original_objects/snag.jpg)
 ![snag](images/reconstructed_models/snag.png)
