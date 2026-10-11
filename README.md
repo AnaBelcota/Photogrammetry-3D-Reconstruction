@@ -39,7 +39,7 @@ The resulting 3D models were also visualized in Blender.
 This repository contains selected project images, reconstruction examples, and documentation.
 
 More detailed experimental results can be added as supplementary materials.
-
+ 
 ## Documentation
 
 The complete bachelor's thesis can be accessed here:
